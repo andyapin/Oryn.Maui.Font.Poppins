@@ -1,6 +1,9 @@
 
 # Plugin.Toolkit.Fonts.Poppins
 
+[![NuGet](https://img.shields.io/nuget/v/Plugin.Toolkit.Fonts.Poppins)](https://www.nuget.org/packages/Plugin.Toolkit.Fonts.Poppins)
+[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&label=.NET%20MAUI)](https://dotnet.microsoft.com/en-us/apps/maui)
+
 **Effortlessly integrate the Poppins font family into your .NET MAUI applications.** 
 
 Poppins, a popular geometric sans-serif typeface, offers a clean and modern aesthetic, supporting a wide range of languages.
@@ -69,9 +72,10 @@ Install-Package Plugin.Toolkit.Fonts.Poppins
     ```
 
 ## Example Project
-
 The repository includes a sample MAUI project demonstrating the usage of the plugin. You can find it in the `samples` directory.
 
 ## Contributing
-
 Contributions are welcome! Please open an issue or submit a pull request.
+
+## Contact
+If you have any questions or suggestions, please feel free to contact me at andyapin@gmail.com
