@@ -48,7 +48,8 @@ Install-Package Plugin.Toolkit.Fonts.Poppins
                 {
 	                fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 	                fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-	                fonts.AddPoppinsFonts(); // <-- add this
+	                fonts.AddPoppinsFonts(); // <-- add this if using this font to global. using: FontFamily="Regular" (Italic, Medium, SemiBold, Bold, MediumItalic, SemiBoldItalic, BoldItalic)
+     		//fonts.AddPoppinsFontsPartial(); // <-- add this if using this font as partial. using: FontFamily="PoppinsRegular" (PoppinsItalic, PoppinsMedium, PoppinsSemiBold, PoppinsBold, PoppinsMediumItalic, PoppinsSemiBoldItalic, PoppinsBoldItalic)
                 });
 
             return builder.Build();
