@@ -25,6 +25,7 @@
 		<Authors>Ibnu Hajar Handityo</Authors>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageIcon>icon.png</PackageIcon>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)'=='Release'">
@@ -33,14 +34,14 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsBold.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsBoldItalic.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsItalic.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsMedium.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsMediumItalic.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsRegular.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsSemiBold.ttf" />
-	  <EmbeddedResource Include="Resources\Fonts\PoppinsSemiBoldItalic.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsBold.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsBoldItalic.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsItalic.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsMedium.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsMediumItalic.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsRegular.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsSemiBold.ttf" />
+		<EmbeddedResource Include="Resources\Fonts\PoppinsSemiBoldItalic.ttf" />
 	</ItemGroup>
 
 	<ItemGroup>
