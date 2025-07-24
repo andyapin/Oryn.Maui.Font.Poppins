@@ -1,0 +1,12 @@
+﻿<Project>
+	<ItemGroup>
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsBold.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsBoldItalic.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsItalic.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsMedium.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsMediumItalic.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsRegular.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsSemiBold.ttf" />
+		<MauiFont Include="$(MSBuildThisFileDirectory)\Fonts\PoppinsSemiBoldItalic.ttf" />
+	</ItemGroup>
+</Project>
