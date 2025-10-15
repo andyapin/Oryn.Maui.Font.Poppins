@@ -1,4 +1,4 @@
-﻿namespace Plugin.Toolkit.Fonts.Poppins
+﻿namespace Oryn.Maui.Font.Poppins
 {
     /// <summary>
     /// Provides extension methods for adding Poppins fonts to an IFontCollection.

@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-using Plugin.Toolkit.Fonts.Poppins;
+using Oryn.Maui.Font.Poppins;
 
 namespace sample
 {

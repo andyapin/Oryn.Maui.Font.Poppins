@@ -63,7 +63,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\src\Plugin.Toolkit.Fonts.Poppins.csproj" />
+	  <ProjectReference Include="..\src\Oryn.Maui.Font.Poppins.csproj" />
 	</ItemGroup>
 
 </Project>

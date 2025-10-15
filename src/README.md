@@ -1,5 +1,5 @@
 
-# Plugin.Toolkit.Fonts.Poppins
+# Oryn.Maui.Font.Poppins
 
 **Effortlessly integrate the Poppins font family into your .NET MAUI applications.** 
 
@@ -20,7 +20,7 @@ This plugin simplifies the process of including the Poppins font family in your 
 You can install the plugin via NuGet:
 
 ```bash
-Install-Package Plugin.Toolkit.Fonts.Poppins
+Install-Package Oryn.Maui.Font.Poppins
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Install-Package Plugin.Toolkit.Fonts.Poppins
     In your `MauiProgram.cs` file:
 
     ```csharp
-    using Plugin.Toolkit.Fonts.Poppins;
+    using Oryn.Maui.Font.Poppins;
 
     public static class MauiProgram
     {

@@ -1,4 +1,4 @@
-﻿namespace Plugin.Toolkit.Fonts.Poppins
+﻿namespace Oryn.Maui.Font.Poppins
 {
     internal class FontAliases
     {
